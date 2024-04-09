@@ -1,2 +1,2 @@
 # Parser
-Scanner and Parser for fake programming language
+Scanner and Parser of language given in EBNF
